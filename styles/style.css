@@ -1,0 +1,203 @@
+body {
+background-color: #F5F5F5;
+}
+
+
+.container{
+	padding-left: 70px;
+}
+
+
+.container1{
+	display: inline-block;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	padding-top: 20px;
+	margin-left: 70px;
+
+}
+
+
+
+div{
+	display: inline-block;
+	font-weight: 700;
+	margin-left: 70px;
+
+}
+
+span{
+	margin-right: 20px;
+	margin-top: 20px;
+
+}
+.pic{
+	margin-top: -10px;
+
+}
+
+header {
+	background-color: #FFFFFF;
+	padding: 20px;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	z-index: 100;
+	margin-left: 10px;
+}
+
+
+
+.uuu{
+	margin-top: 100px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	padding-top: 20px;
+	margin-left: 100px;
+}
+
+.parent {
+	display: inline;
+	position: absolute;
+	background-color: white;
+
+;
+
+
+}
+
+h2 {
+	font-size: 30px;
+	color: white;
+	font-weight: bold;
+	position: absolute;
+	top: 20px;
+	left: 30px;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+.ooo{
+	margin-left: 70px;
+}
+
+
+.bbb{
+	top: 30px;
+	left: 100px;
+
+}
+
+h3{
+	display: inline-block;
+	font-family: 'Roboto', sans-serif;
+	font-weight:700;
+	font-size: 10px;
+	line-height: 11.72px;
+
+
+}
+
+.ppp{
+	background-color: blue;
+	padding: 20px;
+	margin-left: 100px;
+	margin-right: 1002px;
+	margin-top: -4px;
+
+
+
+}
+
+.ttt{
+	width: 415px;
+	height: 213px;
+}
+
+
+
+
+
+
+padding-top: 20px;
+
+.mshobeli {
+	height: 300px;
+	width: 300px;
+	background-color: yellow;
+	position: relative;
+	border-radius: 50%;
+}
+
+
+.shvili {
+	height: 70px;
+	width: 70px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+
+
+.parent {
+	display: inline-block;
+	position: relative;
+}
+
+
+
+.section_1 {
+	margin-top: 90px;
+}
+
+p{
+	color:#8A8787;
+	padding-left: 20px;
+
+}
+
+.o{
+	padding-left: 20px;
+}
+
+.uut{
+	margin-top: 50px;
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	padding-top: 20px;
+	margin-left: 100px;
+}
+
+
+.color{
+	color: #243043;
+}
+.parnt{
+	display: inline-block;
+	position: relative;
+	color: #243043;
+	background-color: #243043;
+	display: flex;
+	margin-left: 0px;
+
+}
+
+
+.parntt{
+	margin-left: 0px;
+	background-color: #243043;
+	display: inline-block;
+	padding-left: 70px;
+	padding-top: 50px;
+	padding-bottom: 40px;
+
+}
+
+.uouo{
+	width: 38px;
+	height: 40px;
+	margin-left: 350px;
+	margin-top: 100px;
+}
